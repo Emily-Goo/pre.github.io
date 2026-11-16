@@ -1,0 +1,1 @@
+{"items":[{"event_id":"demo-leakage-blocked-e1ca142fed:evt:000001","run_id":"demo-leakage-blocked-e1ca142fed","step_id":null,"timestamp":"2026-11-16T01:10:00.904453+00:00","event_type":"run.created","severity":"info","message":"DEMO / SYNTHETIC：已创建合成研究任务"}],"next_cursor":"demo-leakage-blocked-e1ca142fed:evt:000001"}

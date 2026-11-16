@@ -1,0 +1,1 @@
+{"items":[{"event_id":"demo-news-failure-58067fa872:evt:000001","run_id":"demo-news-failure-58067fa872","step_id":null,"timestamp":"2026-11-16T01:10:00.902448+00:00","event_type":"run.created","severity":"info","message":"DEMO / SYNTHETIC：已创建合成研究任务"}],"next_cursor":"demo-news-failure-58067fa872:evt:000001"}
